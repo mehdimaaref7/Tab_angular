@@ -1,2 +1,2 @@
 # Tab_angular
-tableau  pour Practice Exo 2 en Angular (tableau composé de component)
+tableau  pour Practice 1 Exo 2 en Angular (tableau composé de component)
